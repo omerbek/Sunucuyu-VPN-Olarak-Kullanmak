@@ -63,6 +63,7 @@ Access Server 2.14.1 has been successfully installed in /usr/local/openvpn_as
 Configuration log file has been written to /usr/local/openvpn_as/init.log
 
 
+
 Access Server Web UIs are available here:
 Admin  UI: https://xx.xx.xx.xx:943/admin
 Client UI: https://xx.xx.xx.xx:943/
